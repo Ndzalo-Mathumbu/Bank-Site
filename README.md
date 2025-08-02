@@ -1,4 +1,4 @@
-# Bank Landing Page
+# Bank-Site
 
 > A modern marketing website promoting a minimalist digital banking experience.  
 > Built as part of hands-on learning while studying Jonas Schmedtmann’s JavaScript course.
